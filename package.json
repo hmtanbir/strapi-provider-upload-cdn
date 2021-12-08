@@ -1,0 +1,45 @@
+{
+    "name": "strapi-upload-local-provider",
+    "version": "1.0.0",
+    "description": "Local provider for strapi custom upload",
+    "homepage": "http://strapi.io",
+    "keywords": [
+      "upload",
+      "strapi"
+    ],
+    "directories": {
+      "lib": "./lib"
+    },
+    "main": "./lib",
+    "dependencies": {},
+    "strapi": {
+      "isProvider": true
+    },
+    "author": {
+      "email": "hmtanbir@gmail.com",
+      "name": "HM Tanbir",
+      "url": "https://linkdin.com/in/hmtanbir"
+    },
+    "maintainers": [
+      {
+        "name": "hmtanbir@gmail.com",
+        "email": "HM Tanbir",
+        "url": "https://linkdin.com/in/hmtanbir"
+      }
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git@github.com:BDMADE/strapi-upload-local-provider.git"
+    },
+    "bugs": {
+      "url": "https://github.com/BDMADE/strapi-upload-local-provider/issues"
+    },
+    "engines": {
+      "node": ">= 10.0.0",
+      "npm": ">= 6.0.0"
+    },
+    "license": "MIT",
+    "scripts": {
+      "test": "echo \"no tests yet\""
+    }
+  }
