@@ -1,5 +1,5 @@
 {
-    "name": "strapi-upload-local-provider",
+    "name": "strapi-provider-upload-custom",
     "version": "1.0.0",
     "description": "Local provider for strapi custom upload",
     "homepage": "http://strapi.io",
