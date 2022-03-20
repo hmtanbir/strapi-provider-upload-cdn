@@ -1,11 +1,12 @@
 {
-  "name": "@hmtanbir/strapi-provider-upload-custom",
-  "version": "1.0.1",
+  "name": "strapi-provider-upload-cdn",
+  "version": "1.0.2",
   "description": "Local provider for strapi CDN upload",
   "homepage": "http://strapi.io",
   "keywords": [
     "upload",
-    "strapi"
+    "strapi",
+    "cdn"
   ],
   "directories": {
     "lib": "./lib"
