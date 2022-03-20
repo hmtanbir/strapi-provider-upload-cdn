@@ -1,5 +1,5 @@
 {
-  "name": "@hmtanbir/strapi-provider-upload-cdn",
+  "name": "@hmtanbir/strapi-provider-upload-custom",
   "version": "1.0.1",
   "description": "Local provider for strapi CDN upload",
   "homepage": "http://strapi.io",
